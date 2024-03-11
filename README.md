@@ -4,4 +4,4 @@ This model can predict hourly UV-index for Melbourne, Brisbane, Adelaide, Perth,
 
 I'll probably deploy this model via Streamlit in a separate repo since the dataset is really large :)
 
-Data provided by (ARAPANSA)[https://www.arpansa.gov.au/]
+Data provided by [ARAPANSA](https://www.arpansa.gov.au/)
